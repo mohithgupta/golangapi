@@ -16,3 +16,6 @@ A student record should has the following Attributes. <br/>
 -> Email <br/>
 -> Phone Number <br/>
 -> Marks in the subjects - Maths, Science, Social Science, English and Hindi.
+
+
+You can test it using the Postman Client (I used the same)
